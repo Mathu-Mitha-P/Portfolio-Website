@@ -47,11 +47,15 @@ body{
     text-align: center;
 }
 .about-info{
-    padding: 70px;
+    padding: 20px;
     padding-top: 200px;
     padding-bottom: 200px;
     background-color: rgba(70, 155, 230, 0.525);
     display: grid;
-    grid-template-columns: 70% 40%;
+    grid-template-columns: 30% 50%;
     flex-direction: row;
+}
+.img{
+    padding: 20px;
+    margin-left: 100px;
 }
